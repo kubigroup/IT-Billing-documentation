@@ -1,0 +1,6 @@
+DDL Export Summary
+===================
+Export Date: 2025-07-25T12:06:34.161Z
+Total Tables Found: 21
+Successfully Exported: 21
+Failed Exports: 0
