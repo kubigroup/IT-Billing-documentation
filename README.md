@@ -1,4 +1,4 @@
-# TODO: import to Confluence and delete this repo
+# TODO: (Review main parts and) import to Confluence and delete this repo (and continue reviewing in Confluence)
 # Oracle DDL Exporter and IT Billing documentation
 
 A TypeScript application that connects to an Oracle database and exports all table DDL statements to individual SQL files.
